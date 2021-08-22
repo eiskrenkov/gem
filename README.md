@@ -1,2 +1,2 @@
-# gem
+# Gem
 Ruby Gem Template
